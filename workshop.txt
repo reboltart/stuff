@@ -1,0 +1,306 @@
+Hello. This is (hopefully) a list of every single addon I used in the making of this video.
+If you saw your addon in the video and don't see it here, dm me or just @ me on Twitter (or X or whatever) @ratlobr. 
+
+This is mostly in order of appearance but don't quote me on that
+
+Yates - [FO3] Lyons' Brotherhood of Steel Playermodels
+https://steamcommunity.com/sharedfiles/filedetails/?id=2904959501
+
+AxelNoir - Dirty Harry Playermodel/Ragdoll/NPC
+https://steamcommunity.com/sharedfiles/filedetails/?id=2833786388
+
+Gonzo シ' - Fallout HUD
+https://steamcommunity.com/sharedfiles/filedetails/?id=169557505
+
+BooCobalt - Fallout: Combat Armor
+https://steamcommunity.com/sharedfiles/filedetails/?id=243785005
+
+Marvelous Marvin - Fallout Wastelanders Megapack
+https://steamcommunity.com/sharedfiles/filedetails/?id=1640423580
+
+[CZ] Colonel Clanny - Fixed Fallout Playermodels
+https://steamcommunity.com/sharedfiles/filedetails/?id=834259345
+
+Professor Heavy - Fallout 3 101 Security Officers NPCs and Playermodels
+https://steamcommunity.com/sharedfiles/filedetails/?id=225739642
+
+nikout13 - [FO:NV] Advanced Power Armor
+https://steamcommunity.com/sharedfiles/filedetails/?id=143153546
+
+HaloEH - Fallout Weapons Part 1(Not Sweps)
+https://steamcommunity.com/sharedfiles/filedetails/?id=202590506
+
+Tomstaa - Fallout Ragdolls
+https://steamcommunity.com/sharedfiles/filedetails/?id=183739185
+
+CubicTuxedo - Fallout props
+https://steamcommunity.com/sharedfiles/filedetails/?id=673130155
+
+OptimUM - rp_fallout3_v002
+https://steamcommunity.com/sharedfiles/filedetails/?id=481052033
+
+NightlyH - Fallout Sweps Reloaded v0.1.3
+https://steamcommunity.com/sharedfiles/filedetails/?id=455435228
+
+Innocentz - Fallout New Vegas Npcs
+https://steamcommunity.com/sharedfiles/filedetails/?id=114103927
+
+Mahboison - Fallout Flags
+https://steamcommunity.com/sharedfiles/filedetails/?id=1624322779
+
+Friman26 - Fallout Playermodels Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=124125744
+
+Extra - Fallout 4 V.A.T.S
+https://steamcommunity.com/sharedfiles/filedetails/?id=627343074
+(sorry i said ur addon was poop. its awesome actually.)
+
+cuda - Body Looting
+https://steamcommunity.com/sharedfiles/filedetails/?id=2768920677
+
+hoobsug - Quest and dialogue system
+https://steamcommunity.com/sharedfiles/filedetails/?id=2879625504
+
+Sythen - Fallout New Vegas Model Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=417111671
+
+datæ - TacMove
+https://steamcommunity.com/sharedfiles/filedetails/?id=3000761677
+(hi)
+
+dickmosi - Fallout: New Vegas - Faction Props
+https://steamcommunity.com/sharedfiles/filedetails/?id=1912204263
+
+Gino Cortez - Fallout 76 Melee and Throwables Props
+https://steamcommunity.com/sharedfiles/filedetails/?id=2986093680
+
+Vioxtar - vFire - Dynamic Fire for Garry's Mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1525218777
+
+Luna - [simfphys] - Armed
+https://steamcommunity.com/sharedfiles/filedetails/?id=831680603
+
+Luna - [simfphys] LUA Vehicles - Base
+https://steamcommunity.com/sharedfiles/filedetails/?id=771487490
+
+The Butcher - GWS Inventory System
+https://steamcommunity.com/sharedfiles/filedetails/?id=2340992735
+
+Hagrid The Wise - Fallout SNPCs [REUPLOADED}
+https://steamcommunity.com/sharedfiles/filedetails/?id=455947028
+
+ckosmic - G64
+https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140
+
+[CFS] FosterZ - PS1 Style Effect
+https://steamcommunity.com/sharedfiles/filedetails/?id=2787075675
+
+Coping Koblod - Mario 64 DS: Battle Fort
+https://steamcommunity.com/sharedfiles/filedetails/?id=2773711461
+
+CubeMath - Sandbox - Bob-Omb Battlefield
+https://steamcommunity.com/sharedfiles/filedetails/?id=393940526
+
+xactime - Big Boo's Haunt - Super Mario 64
+https://steamcommunity.com/sharedfiles/filedetails/?id=1445159198
+
+Arctic - ARC9 Weapon Base
+https://steamcommunity.com/sharedfiles/filedetails/?id=2910505837
+
+KrazyMonkey - [TFA] GTA V: The Complete Weapons Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2248569522
+
+Meetric - InfMap - Infinite Map Base
+https://steamcommunity.com/sharedfiles/filedetails/?id=2905327911
+
+Alexandrovich - [INFMAP] Full GTA 5 Map + HD Los Santos
+https://steamcommunity.com/sharedfiles/filedetails/?id=3027782245
+
+Flodor88000 - GTA San Andreas - San Andreas
+https://steamcommunity.com/sharedfiles/filedetails/?id=2947651980
+
+LilMonsterDemon - [xdR] Sprint Animation Replacement For Players
+https://steamcommunity.com/sharedfiles/filedetails/?id=3261368783
+
+NextKuromeThe76Soldier - XDE Thirdperson (free look)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3246688602
+
+Voikanaa - GTA San Andreas: Carl "CJ" Johnson Playermodel
+https://steamcommunity.com/sharedfiles/filedetails/?id=157854748
+
+Pyri - GTA SWEPS: San Andreas Weapons Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=2221949670
+
+Def Valerius Bullshiticus - [simfphys] GTA San Andreas Cars
+https://steamcommunity.com/sharedfiles/filedetails/?id=1737050476
+
+Luna - [LVS] - Planes
+https://steamcommunity.com/sharedfiles/filedetails/?id=2912826012
+
+Hari - Complex Death Animations
+https://steamcommunity.com/sharedfiles/filedetails/?id=3173062409
+
+Rama - Fedhoria - Active Ragdolls
+https://steamcommunity.com/sharedfiles/filedetails/?id=2401084957
+
+Zach88889 - Alternate Unarmed Crouching and Sprinting Animations
+https://steamcommunity.com/sharedfiles/filedetails/?id=2188757697
+
+n-gon - RagMod Reworked
+https://steamcommunity.com/sharedfiles/filedetails/?id=2817879135
+
+∩(≡＾ω＾≡)∩/Zenkaku - [DV] Decent Vehicle - Basic AI
+https://steamcommunity.com/sharedfiles/filedetails/?id=1587455087
+
+[FG] Shark_vil - LUA - SLibrary
+https://steamcommunity.com/sharedfiles/filedetails/?id=2404080563
+
+[FG] Shark_vil - Background NPCs
+https://steamcommunity.com/sharedfiles/filedetails/?id=2341497926
+
+[FG] Shark_vil - Background NPCs vehicles - Grand Theft Auto: San Andreas
+https://steamcommunity.com/sharedfiles/filedetails/?id=2512607394
+
+tacticaldude00 - QuickSelect - Weapon Selection Done Right
+https://steamcommunity.com/sharedfiles/filedetails/?id=2841867853
+
+Fishke - RP_SouthSide_Day
+https://steamcommunity.com/sharedfiles/filedetails/?id=2028581413
+
+Stephenfisher2001 - Decent Vehicle: Rp_southside_day
+https://steamcommunity.com/sharedfiles/filedetails/?id=2029261898
+
+Sentryandreas - [VJ] GTA SA Police Force
+https://steamcommunity.com/sharedfiles/filedetails/?id=1971737493
+
+Geisteskrankenchan - GTA LCS Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=878174170
+
+Oabobaro - Niko Bellic Playermodel
+https://steamcommunity.com/sharedfiles/filedetails/?id=2948284335
+
+Randy - [simfphys] GTA IV Vehicles
+https://steamcommunity.com/sharedfiles/filedetails/?id=2437373117
+
+Whiterabbit - Ragdoll Roper
+https://steamcommunity.com/sharedfiles/filedetails/?id=162196866
+
+Othereum - Weapon Holsters with editor
+https://steamcommunity.com/sharedfiles/filedetails/?id=1162417168
+
+Tatrabbit - Empty Hands Swep
+https://steamcommunity.com/sharedfiles/filedetails/?id=245482078
+(this should just be default in gmod by this point)
+
+Arctic - MGS3 Style Energy System
+https://steamcommunity.com/sharedfiles/filedetails/?id=1457953932
+
+Voikanaa - Metal Gear Solid 3: Soldier Playermodels and NPCs
+https://steamcommunity.com/sharedfiles/filedetails/?id=191065709
+
+UselessGhost - Cardboard Box
+https://steamcommunity.com/sharedfiles/filedetails/?id=317267606
+
+BriceMashiro - KrasnogorjeTunnel Update | MGS 3 map
+https://steamcommunity.com/sharedfiles/filedetails/?id=2825970291
+
+Hidden - The Weapons of Metal Gear Solid
+https://steamcommunity.com/sharedfiles/filedetails/?id=1650578594
+
+TOASTEngineer - Stealth 2.1 (Improved Stealth Mod)
+https://steamcommunity.com/sharedfiles/filedetails/?id=779595105
+
+kipper - MGSV Fulton Recovery System
+https://steamcommunity.com/sharedfiles/filedetails/?id=876405188
+
+Voikanaa - Metal Gear Solid 3: Big Boss Playermodel
+https://steamcommunity.com/sharedfiles/filedetails/?id=184512071
+
+Valkyries733 - [Simfphys] MGSV
+https://steamcommunity.com/sharedfiles/filedetails/?id=2845217858
+
+Detective Sour Pants - The Prone Mod - wOS
+https://steamcommunity.com/sharedfiles/filedetails/?id=775573383
+
+YuRaNnNzZZ - [TFA][AT] H&K MK 23 USSOCOM
+https://steamcommunity.com/sharedfiles/filedetails/?id=1623126001
+
+Holy Russian Empire - [ TFA ] [ AT ] PPSH-41
+https://steamcommunity.com/sharedfiles/filedetails/?id=1447135404
+
+Holy Russian Empire - [ TFA ] [ AT ] M16A1 [ Old Version ]
+https://steamcommunity.com/sharedfiles/filedetails/?id=1478836618
+
+YuRaNnNzZZ - [TFA][AT] Mossberg M500
+https://steamcommunity.com/sharedfiles/filedetails/?id=1231718859
+
+izaak - [TFA][AT] Mosin-Nagant 91/30
+https://steamcommunity.com/sharedfiles/filedetails/?id=2855790256
+
+Ninya - MGS5: TPP - VENOM SNAKE PART 1
+https://steamcommunity.com/workshop/filedetails/?id=528879647
+
+Ninya - MGS5: TPP - XOF
+https://steamcommunity.com/sharedfiles/filedetails/?id=528883877
+
+Ninya - Metal Gear Solid 5 - Ground Zeroes: XOF
+https://steamcommunity.com/sharedfiles/filedetails/?id=375014655
+
+Ninya - Metal Gear Solid 5 - Ground Zeroes: Big Boss
+https://steamcommunity.com/sharedfiles/filedetails/?id=375009880
+
+Sanikku - MGSV: Venom Snake Playermodel
+https://steamcommunity.com/sharedfiles/filedetails/?id=747752095
+
+Diomonder - rp_Desert_Conflict
+https://steamcommunity.com/sharedfiles/filedetails/?id=1957556944
+
+ckosmic - MGSV:TPP Binoculars (Int Scope)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1111148834
+
+毛龙 - Metal Gear Solid V: The Phantom Pain - Soviet Soldier [CONTENT]
+https://steamcommunity.com/sharedfiles/filedetails/?id=1285249425
+
+Gordon Freakman - Markiplier Citizen Playermodel
+https://steamcommunity.com/sharedfiles/filedetails/?id=3151172526
+
+Rsracerp60 - Beta SM64 Mario Playermodel
+https://steamcommunity.com/sharedfiles/filedetails/?id=2221191523
+
+johnny moe - Brutalist McDonald's
+https://steamcommunity.com/sharedfiles/filedetails/?id=3254618986
+
+INCONCEIVABLE! - M9K Specialties
+https://steamcommunity.com/sharedfiles/filedetails/?id=144982052
+
+Oatmeal II - The Kleiner Community Center
+https://steamcommunity.com/sharedfiles/filedetails/?id=3291403162
+
+DyaMetR - Grand Theft Auto 3D Universe HUD
+https://steamcommunity.com/sharedfiles/filedetails/?id=3068556242
+
+Rex - DOOM 2016/Eternal Weapons
+https://steamcommunity.com/sharedfiles/filedetails/?id=2296325632
+
+Dopey - ASTW2 Metal Gear Solid DLC Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=1686441818
+
+Arctic - ASTW2
+https://steamcommunity.com/sharedfiles/filedetails/?id=1392703845
+
+
+
+
+that should be everyone. thank u all.
+- ratlobber
+
+
+
+
+
+
+
+
+
+
+
